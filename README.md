@@ -1,6 +1,6 @@
 # EX:06 Obstacle Avoidance Robot
 
-Date : 12/05/23
+
 
 ##  AIM:
 To design and simulate Obstacle Avoidance Robot using Arduino UNO controller.
