@@ -39,9 +39,7 @@ The IR sensors are used for obstacle detection. The sensor output signal sends t
 
 ## PROGRAM:
 
-Developed by : Kathirvelan.K
 
-Register number : 212221220026
 ```
 const int fs = 0; 
 const int rs = 1;
